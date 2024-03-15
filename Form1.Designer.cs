@@ -319,6 +319,7 @@
             C.TabIndex = 22;
             C.Text = "C";
             C.UseVisualStyleBackColor = false;
+            C.Click += C_Click;
             // 
             // CE
             // 
@@ -330,6 +331,7 @@
             CE.TabIndex = 21;
             CE.Text = "CE";
             CE.UseVisualStyleBackColor = false;
+            CE.Click += CE_Click;
             // 
             // procenti
             // 

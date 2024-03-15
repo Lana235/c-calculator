@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d9v3nuvpNH/6GLJ7AXJHWmtzQwJGN0MoylvHBwJ+HK8Ef1D0kKGs114LqwbSAlX+Mb1D7b1qS5NRol4L69W96g==",
+  "dgSpecHash": "vwt++RrjtCkvUxqixHo9HzLpW41vjHg8qTH4D24yxbU2P/5To+eqc5qWK3GzZPhBGTJlZcNgrxKLejeesgq5jQ==",
   "success": true,
-  "projectFilePath": "D:\\guladis c#\\CalCulator\\CalCulator.csproj",
+  "projectFilePath": "D:\\guladis c#\\calculator\\CalCulator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

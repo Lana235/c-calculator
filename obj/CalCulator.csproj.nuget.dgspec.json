@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\guladis c#\\CalCulator\\CalCulator.csproj": {}
+    "D:\\guladis c#\\calculator\\CalCulator.csproj": {}
   },
   "projects": {
-    "D:\\guladis c#\\CalCulator\\CalCulator.csproj": {
+    "D:\\guladis c#\\calculator\\CalCulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\guladis c#\\CalCulator\\CalCulator.csproj",
+        "projectUniqueName": "D:\\guladis c#\\calculator\\CalCulator.csproj",
         "projectName": "CalCulator",
-        "projectPath": "D:\\guladis c#\\CalCulator\\CalCulator.csproj",
+        "projectPath": "D:\\guladis c#\\calculator\\CalCulator.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\guladis c#\\CalCulator\\obj\\",
+        "outputPath": "D:\\guladis c#\\calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
