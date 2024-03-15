@@ -6,8 +6,7 @@ Some functionalities are implemented.
 
 TO-DO LIST
 
-~Implement basic arithmetic operations. (+,-)
 
-~Implement functions such as: delete, CE, ect.
+~Add some functions
 
 ~Add visually appealing user interface (if possible)
